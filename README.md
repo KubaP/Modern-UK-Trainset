@@ -1,5 +1,6 @@
 # Modern UK Trainset
-A UK Train Set for OpenTTD including all the latest British Rail classes to be introduced between 2015 and 2025. This set is designed to be played with BRTrains (BRTrains lacks classes from after 2015, so this newGRF completes the gap) rather than on its own. Graphics are designed to work best with the Finescale UK Track Set, but will work with any track combination which provides 3rd rail tracks.
+A UK Train Set for OpenTTD including all the latest British Rail classes to be introduced between 2015 and 2025. This set is designed to be played with BRTrains, filling the gap in trains between 2015 and 2020, rather than on its own. Graphics are designed to work best with the Finescale UK Track Set, but will work with any track combination which provides 3rd rail tracks.
+(Note that BRTracks doesn't work perfectly and 3rd rail trains won't be useable)
 
 ![Banner](./banner.png)
 
@@ -55,5 +56,5 @@ If you want to add to the pack, just pull request it and it might make it in.
 Alternatively, if you just want to steal the build script(s) then go wild.
 
 ### License
-This project is licensed under either the GPLv3 or GPLv2 license
-See [LICENSE](./LICENSE) regarding GPLv3 or [LICENSE-v2](./LICENSE-V2) regarding GPLv2
+This project is dual-licensed under either the GPLv3 or GPLv2 license
+See [LICENSE](./LICENSE) regarding GPLv3, or [LICENSE-v2](./LICENSE-V2) regarding GPLv2
